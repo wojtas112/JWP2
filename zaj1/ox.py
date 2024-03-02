@@ -74,3 +74,5 @@ def updateBoard(board, space, mark):
 
 if __name__ == '__main__':
     main() # Wywołaj main(), jeśli ten moduł został uruchomiony, a nie zaimportowany.
+
+    #first commit changes
